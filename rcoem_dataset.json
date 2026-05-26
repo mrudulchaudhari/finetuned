@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "How many canteens are there in RCOEM?",
+    "response": "There is 1 canteen in RCOEM."
+  },
+  {
+    "instruction": "Does RCOEM have hostel facilities?",
+    "response": "Yes, RCOEM has hostel facilities for both boys and girls."
+  },
+  {
+    "instruction": "Where is RCOEM located?",
+    "response": "RCOEM is located in Nagpur, Maharashtra, India."
+  },
+  {
+    "instruction": "Which courses are popular in RCOEM?",
+    "response": "BTech in Computer Science and core engineering fields are popular in RCOEM."
+  },
+  {
+    "instruction": "Does RCOEM have a library?",
+    "response": "Yes, RCOEM has a library."
+  },
+  {
+    "instruction": "What is the attendance rule in RCOEM?",
+    "response": "RCOEM follows a 75% attendance rule."
+  },
+  {
+    "instruction": "Does RCOEM conduct technical fests?",
+    "response": "Yes, RCOEM conducts technical fests."
+  },
+  {
+    "instruction": "What sports facilities are available in RCOEM?",
+    "response": "RCOEM has gymnasiums for boys and girls, pickleball turf, football turf, cricket nets, basketball court, and volleyball court."
+  },
+  {
+    "instruction": "What is the full form of RCOEM?",
+    "response": "RCOEM stands for Ramdeobaba College of Engineering and Management."
+  },
+  {
+    "instruction": "Are there coding clubs in RCOEM?",
+    "response": "Yes, RCOEM has coding communities like GDG, GFG, Codebreakers, and Technical Club."
+  }
+]
